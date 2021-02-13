@@ -65,15 +65,15 @@ ul li.checked::before {
 }
 
 .close:hover {
-    background-color: #f44336;
+    background-color: #05b71d;
     color: white;
 }
 
 /* Style the header */
 .header {
-    background-color: #f44336;
+    background-color: #05b71d;
     padding: 30px 40px;
-    color: white;
+    color: #111111;
     text-align: center;
 }
 

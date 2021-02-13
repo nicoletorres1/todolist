@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b8eb299-bf9a-402a-a193-189f98f71a34" name="Default Changelist" comment="" />
+    <list default="true" id="1b8eb299-bf9a-402a-a193-189f98f71a34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,14 +48,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613235078601</updated>
-      <workItem from="1613235080202" duration="1088000" />
+      <workItem from="1613235080202" duration="2785000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed html file name.">
+      <created>1613236443117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613236443117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed html file name." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed html file name." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="345" y="25" key="CommitChangelistDialog2" timestamp="1613236442901">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="345" y="25" key="CommitChangelistDialog2/0.25.1440.807@0.25.1440.807" timestamp="1613236442901" />
     <state x="594" y="329" key="Github.ShareDialog" timestamp="1613236154021">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
@@ -60,5 +80,9 @@
       <screen x="0" y="25" width="1440" height="807" />
     </state>
     <state x="581" y="137" key="Github.UntrackedFilesDialog/0.25.1440.807@0.25.1440.807" timestamp="1613236161955" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1613236445624">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.807@0.25.1440.807" timestamp="1613236445624" />
   </component>
 </project>
